@@ -1,0 +1,4 @@
+zig-cache/
+*.o
+tracer
+result.pgm
